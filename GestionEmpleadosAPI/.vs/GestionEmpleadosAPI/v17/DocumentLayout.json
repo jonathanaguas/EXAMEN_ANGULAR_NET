@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JONAS\\Documents\\GitHub\\GestionEmpleadosAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA04CB54-2D43-47CC-A783-A345A1AECC2F}|GestionEmpleadosAPI.csproj|c:\\users\\jonas\\documents\\github\\gestionempleadosapi\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA04CB54-2D43-47CC-A783-A345A1AECC2F}|GestionEmpleadosAPI.csproj|solutionrelative:controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA04CB54-2D43-47CC-A783-A345A1AECC2F}|GestionEmpleadosAPI.csproj|c:\\users\\jonas\\documents\\github\\gestionempleadosapi\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA04CB54-2D43-47CC-A783-A345A1AECC2F}|GestionEmpleadosAPI.csproj|solutionrelative:controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA04CB54-2D43-47CC-A783-A345A1AECC2F}|GestionEmpleadosAPI.csproj|c:\\users\\jonas\\documents\\github\\gestionempleadosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA04CB54-2D43-47CC-A783-A345A1AECC2F}|GestionEmpleadosAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA04CB54-2D43-47CC-A783-A345A1AECC2F}|GestionEmpleadosAPI.csproj|c:\\users\\jonas\\documents\\github\\gestionempleadosapi\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA04CB54-2D43-47CC-A783-A345A1AECC2F}|GestionEmpleadosAPI.csproj|solutionrelative:models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA04CB54-2D43-47CC-A783-A345A1AECC2F}|GestionEmpleadosAPI.csproj|c:\\users\\jonas\\documents\\github\\gestionempleadosapi\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA04CB54-2D43-47CC-A783-A345A1AECC2F}|GestionEmpleadosAPI.csproj|solutionrelative:models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA04CB54-2D43-47CC-A783-A345A1AECC2F}|GestionEmpleadosAPI.csproj|c:\\users\\jonas\\documents\\github\\gestionempleadosapi\\data\\gestioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA04CB54-2D43-47CC-A783-A345A1AECC2F}|GestionEmpleadosAPI.csproj|solutionrelative:data\\gestioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA04CB54-2D43-47CC-A783-A345A1AECC2F}|GestionEmpleadosAPI.csproj|c:\\users\\jonas\\documents\\github\\gestionempleadosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA04CB54-2D43-47CC-A783-A345A1AECC2F}|GestionEmpleadosAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cde3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Documents\\GitHub\\GestionEmpleadosAPI\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Documents\\GitHub\\GestionEmpleadosAPI\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "Controllers\\EmpleadosController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:33:29.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartamentosController.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Documents\\GitHub\\GestionEmpleadosAPI\\Controllers\\DepartamentosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartamentosController.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Documents\\GitHub\\GestionEmpleadosAPI\\Controllers\\DepartamentosController.cs",
+              "RelativeToolTip": "Controllers\\DepartamentosController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:25:47.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Documents\\GitHub\\GestionEmpleadosAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Documents\\GitHub\\GestionEmpleadosAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:23:51.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Documents\\GitHub\\GestionEmpleadosAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\JONAS\\Documents\\GitHub\\GestionEmpleadosAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-27T03:14:18.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GestionContext.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Documents\\GitHub\\GestionEmpleadosAPI\\Data\\GestionContext.cs",
+              "RelativeDocumentMoniker": "Data\\GestionContext.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Documents\\GitHub\\GestionEmpleadosAPI\\Data\\GestionContext.cs",
+              "RelativeToolTip": "Data\\GestionContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:12:30.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Documents\\GitHub\\GestionEmpleadosAPI\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Documents\\GitHub\\GestionEmpleadosAPI\\Models\\Empleado.cs",
+              "RelativeToolTip": "Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:10:55.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Documents\\GitHub\\GestionEmpleadosAPI\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Documents\\GitHub\\GestionEmpleadosAPI\\Models\\Departamento.cs",
+              "RelativeToolTip": "Models\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:10:11.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
